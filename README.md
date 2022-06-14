@@ -1,5 +1,5 @@
 # Screenshot
-![Screenshot_2022-05-26-10-53-13-46_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/170805786-10861f3d-e9ba-480d-b720-03112bb4ace5.png)
+![Screenshot_2022-06-14-08-06-43-51](https://user-images.githubusercontent.com/65714340/173475692-95d27806-79d5-433a-bd41-658214d57cbc.png)
 
 # Perintah :
     $ pkg update && pkg upgrade
