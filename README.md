@@ -1,13 +1,13 @@
 # Perintah termux :
     $ apt update -y && apt upgrade -y
     $ pkg install git
-    $ pkg install python3
+    $ pkg install python
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ pip3 install -r requirements.txt
-    $ python3 Prem.py
+    $ pip install -r requirements.txt
+    $ python Prem.py
 # Cara Update :
     $ rm -rf Premium
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ python3 Prem.py
+    $ python Prem.py
