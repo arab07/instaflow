@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from builtins import *
 from math import prod as _algorithm
 
