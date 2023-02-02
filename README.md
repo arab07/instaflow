@@ -33,7 +33,7 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
     
     git clone https://github.com/RozhakXD/Premium
     cd Premium
-    python3 -m pip install requirements.txt
+    python3 -m pip install -r requirements.txt
 
 ## Usage
 
