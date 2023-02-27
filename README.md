@@ -27,16 +27,16 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
 
 ### Termux
 
-    apt update -y && apt upgrade -y
-    pkg install git
-    pkg install python3
+    $ apt update -y && apt upgrade -y
+    $ pkg install git
+    $ pkg install python3
     
-    git clone https://github.com/RozhakXD/Premium
-    cd Premium
-    python3 -m pip install -r requirements.txt
+    $ git clone https://github.com/RozhakXD/Premium
+    $ cd Premium
+    $ pip3 install -r requirements.txt
 
 ## Usage
 
-    python3 Prem.py
+    $ python3 Prem.py
 
 ## Thank you
