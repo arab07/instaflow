@@ -28,6 +28,7 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
 ### Termux
 
     $ apt update -y && apt upgrade -y
+    $ pkg install iproute2
     $ pkg install git
     $ pkg install python3
     
