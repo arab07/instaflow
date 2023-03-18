@@ -29,9 +29,10 @@ You can install the latest version of Termux at [here](https://f-droid.org/repo/
 
     $ apt update -y && apt upgrade -y
     $ pkg install iproute2
+    $ pkg install clang python3 libffi openssl libsodium
     $ pkg install git
-    $ pkg install python3
-    
+    $ SODIUM_INSTALL=system pip install pynacl
+
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
     $ pip3 install -r requirements.txt
