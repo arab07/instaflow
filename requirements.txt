@@ -2,3 +2,4 @@ requests
 rich
 futures
 PySocks
+pycryptodomex
