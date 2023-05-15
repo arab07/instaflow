@@ -1,5 +1,5 @@
 # Instagram Brute Force Premium - From Indonesian
-<p>Premium is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.</p>
+<p><b>InstagramBruteForce</b> is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.</p>
 <p align="left"><img src="Data/Foto/Premium.jpg"/></p>
 
 <p align="left">
