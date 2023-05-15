@@ -35,7 +35,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
 ### Features
 
 - Login using instagram cookies.
-- Equipped with Instagram password encryption
+- Equipped with Instagram password encryption.
 - Easy to use for beginners.
 - Instagram Certificate Pinning Bypassing method.
   - Instagram Aplication
@@ -53,7 +53,6 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
  ### Installation
 
 - Linux - Termux
-
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install clang binutils python3 git libffi openssl libsodium iproute2 
@@ -64,7 +63,6 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   >> python3 Prem.py
   ```
   - Running on Termux
-
     ```
     >> cd "$HOME/Premium"
     >> python3 Prem.py
@@ -78,7 +76,6 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   >> python3 Prem.py
   ```
   - Running on Pydroid3
-
     ```
     >> cd /sdcard/Download/Premium
     >> python3 Prem.py
