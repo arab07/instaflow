@@ -50,7 +50,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
 
 ## 
   
- ### Installation
+### Installation
 
 - Linux - Termux
   ```
@@ -82,6 +82,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
     ```
 
 ##
+
 ### Screenshots
 
 ![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Foto/Prem.png)
