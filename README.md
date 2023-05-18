@@ -41,7 +41,8 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   - Instagram Aplication
   - Instagram Lite
 - Using random useragent.
-  - Android useragent and Instagram application useragent
+  - Instagram application useragent
+  - Android useragent
   - Random Instagram lite useragent
 - Compatible with
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
@@ -52,7 +53,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   
 ### Installation
 
-- Linux - Termux
+- Linux - [Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install clang binutils python3 git libffi openssl libsodium iproute2 
@@ -67,7 +68,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
     >> cd "$HOME/Premium"
     >> python3 Prem.py
     ```
-- Terminal - Pydroid3
+- Terminal - [Pydroid3](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=share_link)
   ```
   >> cd /sdcard/Download
   >> mkdir Premium && cd Premium
