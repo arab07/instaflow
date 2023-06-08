@@ -1,5 +1,5 @@
 # Instagram Brute Force Premium - From Indonesian
-<p><b>Instagram Brute Force</b> is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.</p>
+**Premium** is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.
 <p align="left"><img src="Data/Images/Premium.jpg"/></p>
 
 <p align="left">
@@ -15,20 +15,10 @@
 
 ##
 
-<h3><p align="center">Disclaimer</p></h3>
- 
-<i><b>Instagram Brute Force</b> has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.
+### Description
+**Premium** was made on *30 June 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This tool becomes paid in 2022 when someone trades this tool without my permission. You can also try the ***Facebook Brute Force*** tool that we released to complement our Premium tool called [**Facemash**](https://github.com/RozhakXD/Facemash).
 
-The use of <b>Instagram Brute Force</b> for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.
-
-Additionally, the use of <b>Instagram Brute Force</b> may violate the security and privacy policies of third parties, such as Instagram. I do not take any responsibility for any violations of regulations by the user.
-
-It is recommended to use <b>Instagram Brute Force</b> only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.
-
-
-<b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
-
-<b>This Tool is made for educational purposes only</b>.</i>
+This tool will be updated about every 3 or 7 days to ensure the best results. The method used to log in is automatically scraping every time it sends a request.
 
 ##
 
@@ -94,7 +84,23 @@ It is recommended to use <b>Instagram Brute Force</b> only with explicit authori
 ### Protection Against Attacker
 - Use Strong Password (which contains standard password chars + longest as possible).
 - Use 2F Authentication.
-- Make location based login (+browser based).
+- Do not use Passwords associated with Names (for example name123).
+
+##
+
+### Disclaimer
+ 
+- **Premium** *has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.*
+
+- *The use of* **Premium** *for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.*
+
+- *Additionally, the use of* **Premium** *may violate the security and privacy policies of third parties, such as Instagram. I do not take any responsibility for any violations of regulations by the user.*
+
+- *It is recommended to use* **Premium** *only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.*
+
+- *This tool contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your* **Province**/**Country** *before accessing, using,or in any other way utilizing this in a wrong way.*
+
+***This Tool is made for educational purposes only.***
 
 ~~~
 Happy Hacking Day !
