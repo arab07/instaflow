@@ -1,12 +1,12 @@
 # Instagram Brute Force Premium - From Indonesian
-<p><b>InstagramBruteForce</b> is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.</p>
-<p align="left"><img src="Data/Foto/Premium.jpg"/></p>
+<p><b>Instagram Brute Force</b> is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.</p>
+<p align="left"><img src="Data/Images/Premium.jpg"/></p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-No-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
 </p>
 
 [![GitHub watchers](https://img.shields.io/github/watchers/rozhakxd/Premium.svg?style=social&label=Watch)](https://GitHub.com/rozhakxd/Premium/watchers/)
@@ -17,13 +17,13 @@
 
 <h3><p align="center">Disclaimer</p></h3>
  
-<i><b>InstagramBruteForce</b> has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.
+<i><b>Instagram Brute Force</b> has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.
 
-The use of <b>InstagramBruteForce</b> for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.
+The use of <b>Instagram Brute Force</b> for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.
 
-Additionally, the use of <b>InstagramBruteForce</b> may violate the security and privacy policies of third parties, such as Instagram. I do not take any responsibility for any violations of regulations by the user.
+Additionally, the use of <b>Instagram Brute Force</b> may violate the security and privacy policies of third parties, such as Instagram. I do not take any responsibility for any violations of regulations by the user.
 
-It is recommended to use <b>InstagramBruteForce</b> only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.
+It is recommended to use <b>Instagram Brute Force</b> only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.
 
 
 <b>This tool contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
@@ -63,7 +63,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   >> pip3 install -r requirements.txt
   >> python3 Prem.py
   ```
-  - Running on Termux
+  - [Running on Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
     ```
     >> cd "$HOME/Premium"
     >> python3 Prem.py
@@ -76,7 +76,7 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
   >> wget https://raw.githubusercontent.com/RozhakXD/Premium/main/__pycache__/Prem.py -O Prem.py
   >> python3 Prem.py
   ```
-  - Running on Pydroid3
+  - [Running on Pydroid3](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=share_link)
     ```
     >> cd /sdcard/Download/Premium
     >> python3 Prem.py
@@ -86,11 +86,8 @@ It is recommended to use <b>InstagramBruteForce</b> only with explicit authoriza
 
 ### Screenshots
 
-![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Foto/Prem.png)
-
-![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Foto/Success.png)
-
-![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Foto/Checkpoint.png)
+![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Ok-08-June-2023.png)
+![CAPTURE 1](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Ok-07-June-2023.png)
 
 ##
 
