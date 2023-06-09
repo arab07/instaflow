@@ -48,17 +48,20 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
 - Linux - [Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
   ```
   >> apt update -y && apt upgrade -y
-  >> pkg install clang binutils python3 git libffi openssl libsodium iproute2 
-  >> SODIUM_INSTALL=system pip3 install pynacl
+  >> pkg install clang binutils git libffi openssl libsodium iproute2
+  >> pkg remove python -y
+  >> pkg install tur-repo -y
+  >> pkg install python3.9 -y
+  >> python3.9 -m pip install --upgrade pip
   >> git clone https://github.com/RozhakXD/Premium
   >> cd "Premium"
-  >> pip3 install -r requirements.txt
-  >> python3 Prem.py
+  >> python3.9 -m pip install -r requirements.txt
+  >> python3.9 Prem.py
   ```
   - [Running on Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
     ```
     >> cd "$HOME/Premium"
-    >> python3 Prem.py
+    >> python3.9 Prem.py
     ```
 - Terminal - [Pydroid3](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=share_link)
   ```
@@ -72,6 +75,20 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
     ```
     >> cd /sdcard/Download/Premium
     >> python3 Prem.py
+    ```
+    
+- Termux - [Pydroid3](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=drivesdk)
+  ```
+  >> cd $HOME/Premium/_pycache_
+  >> pkg install tur-repo -y
+  >> pkg install python3.9 -y
+  >> python3.9 -m pip install requests futures
+  >> python3.9 Prem.py
+  ```
+  - [Running on Termux](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=drivesdk)
+    ```
+    >> cd $HOME/Premium/_pycache_
+    >> python3.9 Prem.py
     ```
 
 ##
