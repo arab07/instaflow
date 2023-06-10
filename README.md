@@ -56,6 +56,7 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
   >> git clone https://github.com/RozhakXD/Premium
   >> cd "Premium"
   >> python3.9 -m pip install -r requirements.txt
+  >> python3.9 -m pip install PyNaCl
   >> python3.9 Prem.py
   ```
   - [Running on Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
