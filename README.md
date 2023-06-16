@@ -16,7 +16,7 @@
 ##
 
 ### Description
-**Premium** was made on *30 June 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This tool becomes paid in 2022 when someone trades this tool without my permission. You can also try the ***Facebook Brute Force*** tool that we released to complement our Premium tool called [**Facemash**](https://github.com/RozhakXD/Facemash).
+**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This tool becomes paid in 2022 when someone trades this tool without my permission. You can also try the ***Facebook Brute Force*** tool that we released to complement our Premium tool called [**Facemash**](https://github.com/RozhakXD/Facemash).
 
 ![Success](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
