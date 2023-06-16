@@ -26,22 +26,22 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
 
 ### Features
 
-- Login using instagram cookies.
-- Equipped with Instagram password encryption.
+- Login using Instagram cookies.
+- Crack with Instagram password encryption.
 - Easy to use for beginners.
 - Instagram Certificate Pinning Bypassing method.
   - Instagram Aplication
   - Instagram Lite
-- Using random useragent.
-  - Instagram application useragent
-  - Android useragent
-  - Random Instagram lite useragent
+- Crack using random User-Agent.
+  - Instagram application User-Agent
+  - Android User-Agent
+  - Random Instagram Lite User-Agent
 - Compatible with
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
   - [Termux](https://f-droid.org/repo/com.termux_118.apk)
   - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
 
-## 
+##
   
 ### Installation
 
