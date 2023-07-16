@@ -18,25 +18,23 @@
 ### Description
 **Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This tool becomes paid in 2022 when someone trades this tool without my permission. You can also try the ***Facebook Brute Force*** tool that we released to complement our Premium tool called [**Facemash**](https://github.com/RozhakXD/Facemash).
 
-![Success](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
+![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
-This tool will be updated about every 3 or 7 days to ensure the best results. The method used to log in is automatically scraping every time it sends a request.
+This script will be updated about every 3 or 7 days to ensure the best results. The method used to log in is automatically scraping every time it sends a request.
 
 ##
 
-### Features
+### Features in Script?
 
-- Login using Instagram cookies.
-- Crack with Instagram password encryption.
-- Easy to use for beginners.
-- Instagram Certificate Pinning Bypassing method.
-  - Instagram Aplication
-  - Instagram Lite
-- Crack using random User-Agent.
-  - Instagram application User-Agent
-  - Android User-Agent
-  - Random Instagram Lite User-Agent
-- Compatible with
+- This tool login using new Instagram account Cookies.
+- The secure feature for Instagram accounts cracked.
+- Very fast dump speed.
+- Multiple crack methods and works well.
+- Random user-agents.
+- Mass report target Instagram account feature.
+- Features to get followers, comments, likes and story views.
+
+### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
   - [Termux](https://f-droid.org/repo/com.termux_118.apk)
   - [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
@@ -90,13 +88,46 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
     >> cd $HOME/Premium/_pycache_
     >> python3.9 Prem.py
     ```
+##
+
+### Overcoming Spam Dumps?
+
+- Open desktop mode **"https://www.instgaram.com"** then refresh every few minutes.
+- Turn on airplane mode before starting Dump username.
+- Instagram accounts come with a phone number, email and two-factor authentication.
+
+### Getting Successful Results
+
+- Use the automatic setting that is "Not Recommended" or number One.
+- Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, TECNO, HUAWEI.**
+- Search target on **"https://www.instagram.com/explore/"** make sure it has 1k followers and above.
+- Use good methods like : **Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023.**
+
+### No Results?
+
+- The target you entered is not good or the password they used is a combination of special characters.
+- You don't play **"Airplane Mode"** it is recommended to turn on at 500 username.
+- Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **04, 05**.
+
+### Open Checkpoint Results?
+
+- Only works on accounts that are online and the owner has confirmed "Yes it's me"!
+- First wait about 1-7 days or 30 days after cracking.
+- Run the script then select number One or "Crack Ulang Hasil Checpoint".
+- Enter the name of the file you want to crack "dir Results" to find out the file name.
+- Enter the user-agent selection or use the previously used user-agent.
+
+### Why Can't Use WIFI?
+
+- WiFi causes your IP address to be blocked or spam.
+- Not getting a Success or Checkpoint result.
+- WiFi causes it to get stuck at the words "HIDUPKAN MODE PESAWAT 2 DETIK".
 
 ##
 
 ### Screenshots
 
-![Success](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Ok-08-June-2023.png)
-![Checkpoint](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Ok-07-June-2023.png)
+![Results/Ok-16-July-2023.txt](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Ok-16-July-2023.png)
 
 ##
 
@@ -107,20 +138,6 @@ This tool will be updated about every 3 or 7 days to ensure the best results. Th
 
 ##
 
-### Disclaimer
- 
-- **Premium** *has been created solely for educational and research purposes. I do not take any responsibility for any improper use of the software by third parties.*
-
-- *The use of* **Premium** *for illegal purposes, such as unauthorized access to computer systems, is illegal and may result in legal consequences.*
-
-- *Additionally, the use of* **Premium** *may violate the security and privacy policies of third parties, such as Instagram. I do not take any responsibility for any violations of regulations by the user.*
-
-- *It is recommended to use* **Premium** *only with explicit authorization from the system owner and to always comply with the regulations regarding computer security and privacy.*
-
-- *This tool contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your* **Province**/**Country** *before accessing, using,or in any other way utilizing this in a wrong way.*
-
-***This Tool is made for educational purposes only.***
-
-~~~
-Happy Hacking Day !
+~~~python
+print("Happy Hacking Day !")
 ~~~
