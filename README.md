@@ -98,10 +98,11 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 ### Getting Successful Results
 
-- Use the automatic setting that is "Not Recommended" or number One.
-- Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, TECNO, HUAWEI.**
-- Search target on **"https://www.instagram.com/explore/"** make sure it has 1k followers and above.
 - Use good methods like : **Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023.**
+- Noted for now only new accounts and small follower accounts are successful.
+- Use the automatic setting that is "Not Recommended" or number One.
+- Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, NEXUS, HUAWEI.**
+- Search target on **"https://www.instagram.com/explore/"** make sure it has 1k followers and above.
 
 ### No Results?
 
@@ -122,6 +123,13 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - WiFi causes your IP address to be blocked or spam.
 - Not getting a Success or Checkpoint result.
 - WiFi causes it to get stuck at the words **"HIDUPKAN MODE PESAWAT 2 DETIK".**
+
+### I Only Got Checkpoints?
+
+- Instagram's security is getting tighter and they update all the time.
+- Wrong selection of user-agent and method.
+- Your provider may have a problem.
+- The target that you entered is not good or has been cracked by someone.
 
 ##
 
