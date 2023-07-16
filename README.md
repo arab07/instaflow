@@ -26,12 +26,13 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 ### Features in Script?
 
-- This tool login using new Instagram account Cookies.
+- This tool login using new Instagram account cookies.
 - The secure feature for Instagram accounts cracked.
 - Very fast dump speed.
-- Multiple crack methods and works well.
-- Random user-agents.
 - Mass report target Instagram account feature.
+- Multiple crack methods and works well.
+- Generates a random user-agent.
+- Complete data forms to avoid spam and errors.
 - Features to get followers, comments, likes and story views.
 
 ### Works In Terminal?
@@ -111,17 +112,17 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 ### Open Checkpoint Results?
 
-- Only works on accounts that are online and the owner has confirmed "Yes it's me"!
+- Only works on accounts that are online and the owner has confirmed **"Yes it's me"!**
 - First wait about 1-7 days or 30 days after cracking.
-- Run the script then select number One or "Crack Ulang Hasil Checpoint".
-- Enter the name of the file you want to crack "dir Results" to find out the file name.
+- Run the script then select number One or **"Crack Ulang Hasil Checpoint".**
+- Enter the name of the file you want to crack **"dir Results"** to find out the file name.
 - Enter the user-agent selection or use the previously used user-agent.
 
 ### Why Can't Use WIFI?
 
 - WiFi causes your IP address to be blocked or spam.
 - Not getting a Success or Checkpoint result.
-- WiFi causes it to get stuck at the words "HIDUPKAN MODE PESAWAT 2 DETIK".
+- WiFi causes it to get stuck at the words **"HIDUPKAN MODE PESAWAT 2 DETIK".**
 
 ##
 
