@@ -1,5 +1,5 @@
 # Instagram Brute Force Premium - From Indonesian
-**Premium** is a python based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.
+**Premium** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
 <p align="left"><img src="Data/Images/Premium.jpg"/></p>
 
 <p align="left">
@@ -28,7 +28,6 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 - This tool login using new Instagram account cookies.
 - The secure feature for Instagram accounts cracked.
-- Very fast dump speed.
 - Mass report target Instagram account feature.
 - Multiple crack methods and works well.
 - Generates a random user-agent.
