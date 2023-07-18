@@ -143,10 +143,10 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 ### Bug Success Result?
 
-- The problem of the number of followers is very different from the crack information.
-  - Maybe you get an account continuously.
+- The number of followers does not match.
   - The problem with Instagram can be said that there is one username on two different accounts.
-- Unable to login using cracked cookies.
+  - Maybe you get an account continuously.
+- The cookie has been logged out.
   - Maybe the account owner has changed the password so the cookies is logged out.
 
 ### Account Always Logged Out?
