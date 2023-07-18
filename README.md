@@ -43,7 +43,7 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
   
 ### Installation
 
-- Linux - [Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
+- **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install clang binutils git libffi openssl libsodium iproute2
@@ -56,12 +56,13 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
   >> python3.9 -m pip install -r requirements.txt
   >> python3.9 Prem.py
   ```
-  - [Running on Termux](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=share_link)
+  - **Running on Termux**
+  
     ```
     >> cd "$HOME/Premium"
     >> python3.9 Prem.py
     ```
-- Terminal - [Pydroid3](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=share_link)
+- **Terminal - [Pydroid3](https://drive.google.com/file/d/15sHyfN95oZcwidvgejNitrXZYoztrrDP/view?usp=sharing)**
   ```
   >> cd /sdcard/Download
   >> mkdir Premium && cd Premium
@@ -69,13 +70,14 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
   >> wget https://raw.githubusercontent.com/RozhakXD/Premium/main/__pycache__/Prem.py -O Prem.py
   >> python3 Prem.py
   ```
-  - [Running on Pydroid3](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=share_link)
+  - **Running on Pydroid3**
+  
     ```
     >> cd /sdcard/Download/Premium
     >> python3 Prem.py
     ```
     
-- Termux - [Pydroid3](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=drivesdk)
+- **[Termux - Pydroid3](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=sharing)**
   ```
   >> cd $HOME/Premium/_pycache_
   >> pkg install tur-repo -y
@@ -83,7 +85,8 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
   >> python3.9 -m pip install requests futures
   >> python3.9 Prem.py
   ```
-  - [Running on Termux](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=drivesdk)
+  - **Running on Termux**
+  
     ```
     >> cd $HOME/Premium/_pycache_
     >> python3.9 Prem.py
@@ -110,7 +113,7 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - You don't play **"Airplane Mode"** it is recommended to turn on at 500 username.
 - Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **04, 05**.
 
-### Open Checkpoint Results?
+### [Open Checkpoint Results?](https://drive.google.com/file/d/11RAN1jMdRK5mCTv8CdUbbGwKet5gnfGh/view?usp=sharing)
 
 - Only works on accounts that are online and the owner has confirmed **"Yes it's me"!**
 - First wait about 1-7 days or 30 days after cracking.
@@ -131,6 +134,29 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - Your provider may have a problem.
 - The target that you entered is not good or has been cracked by someone.
 
+### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
+
+- Do not log in to the browser if the account is the result of the **"Application"** method.
+- Login using cracked cookies.
+- Login to the latest version of the Instagram clone application.
+- Turn on **"Airplane Mode"** before logging in.
+
+### Bug Success Result?
+
+- The problem of the number of followers is very different from the crack information.
+  - Maybe you get an account continuously.
+  - The problem with Instagram can be said that there is one username on two different accounts.
+- Unable to login using cracked cookies.
+  - Maybe the account owner has changed the password so the cookies is logged out.
+
+### Account Always Logged Out?
+
+- Use cookies on cracked accounts to make them last longer.
+- Use the latest version of the browser so you don't get browser spam.
+- Change the password on your Instagram account.
+- Use the desktop site to get cookies.
+- Before entering cookies in the script, make sure the account is online.
+
 ##
 
 ### Screenshots
@@ -143,6 +169,13 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - Use Strong Password (which contains standard password chars + longest as possible).
 - Use 2F Authentication.
 - Do not use Passwords associated with Names (for example name123).
+
+### PyNacl Or PyCryptodome Not Installed?
+
+- The problem if the module is not installed is the Termux application which has problems during the installation.
+- You don't use Termux from play'store you should use ["Version-117"](https://f-droid.org/repo/com.termux_117.apk) or ["Version-118"](https://f-droid.org/repo/com.termux_118.apk).
+- Delete Termux data if the problem cannot be resolved.
+- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
 
 ##
 
