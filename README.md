@@ -91,6 +91,14 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
     >> cd $HOME/Premium/_pycache_
     >> python3.9 Prem.py
     ```
+
+### PyNacl Or PyCryptodome Not Installed?
+
+- The problem if the module is not installed is the Termux application which has problems during the installation.
+- You don't use Termux from play'store you should use ["Version-117"](https://f-droid.org/repo/com.termux_117.apk) or ["Version-118"](https://f-droid.org/repo/com.termux_118.apk).
+- Delete Termux data if the problem cannot be resolved.
+- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
+
 ##
 
 ### Overcoming Spam Dumps?
@@ -169,13 +177,6 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - Use Strong Password (which contains standard password chars + longest as possible).
 - Use 2F Authentication.
 - Do not use Passwords associated with Names (for example name123).
-
-### PyNacl Or PyCryptodome Not Installed?
-
-- The problem if the module is not installed is the Termux application which has problems during the installation.
-- You don't use Termux from play'store you should use ["Version-117"](https://f-droid.org/repo/com.termux_117.apk) or ["Version-118"](https://f-droid.org/repo/com.termux_118.apk).
-- Delete Termux data if the problem cannot be resolved.
-- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
 
 ##
 
