@@ -125,7 +125,7 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 - Only works on accounts that are online and the owner has confirmed **"Yes it's me"!**
 - First wait about 1-7 days or 30 days after cracking.
-- Run the script then select number One or **"Crack Ulang Hasil Checpoint".**
+- Run the script then select number One or **"Crack Ulang Hasil Checkpoint".**
 - Enter the name of the file you want to crack **"dir Results"** to find out the file name.
 - Enter the user-agent selection or use the previously used user-agent.
 
