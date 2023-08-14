@@ -109,7 +109,7 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 
 ### Getting Successful Results
 
-- Use good methods like : **Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023.**
+- Use good methods like : **Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023, Account Center.**
 - Noted for now only new accounts and small follower accounts are successful.
 - Use the automatic setting that is "Not Recommended" or number One.
 - Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, NEXUS, HUAWEI.**
