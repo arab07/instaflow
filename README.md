@@ -16,7 +16,7 @@
 ##
 
 ### Description
-**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. Premium is the main script for [Facemash](https://github.com/RozhakXD/Facemash) and [Threads](https://github.com/RozhakXD/Threads) so all features will function well here.
+**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. Premium is the mother of all scripts so all the features will be great here.
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
