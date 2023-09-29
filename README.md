@@ -20,19 +20,19 @@
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
-This script does not require updates because it is equipped with extraordinary features so that it can be kept up to date at all times. You don't need to worry if it doesn't work because it will be fine as time goes by.
+This script will not require updates because it is automatically updated at all times. You don't need to worry if there are problems because it will adjust every time.
 
 ##
 
 ### What Features Does It Have?
 
+- This script has a feature to generate user-agents randomly and always up to date.
 - Having form data in the request will prevent spam from being detected by Instagram.
 - This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
 - This script has a feature to get Likes, Comments and Followers for free.
 - This script has a feature to secure cracked Instagram accounts.
 - There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
 - This script has a method that automatically updates every second.
-- This script has a feature to generate user-agents randomly and always up to date.
 
 ### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
