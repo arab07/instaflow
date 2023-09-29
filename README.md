@@ -166,12 +166,12 @@ This script will not require updates because it is automatically updated at all 
 
 ### Instagram Account Always Logged Out?
 
+- The Instagram account must be online in the browser to receive cookies.
 - Please change your Instagram account if the problem recurs because maybe your account was detected as spam by Instagram.
 - It is recommended that you use cracked cookies so they last longer.
 - You are required to use the most up-to-date browser to get cookies to avoid spam.
 - Change the password on your Instagram account.
 - You can use the desktop site to reduce spam on your Instagram account.
-- The Instagram account must be online in the browser to receive cookies.
 
 ## Why Does Dump Fail?
 
