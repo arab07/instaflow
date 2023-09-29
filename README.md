@@ -20,7 +20,7 @@
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
-This script will not require updates because it is automatically updated at all times. You don't need to worry if there are problems because it will adjust every time.
+This script will not require updates because it is automatically updated at all times. You don't need to worry if a problem occurs because this script will learn how to update next.
 
 ##
 
