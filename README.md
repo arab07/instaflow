@@ -30,9 +30,9 @@ This script will not require updates because it is automatically updated at all 
 - Having form data in the request will prevent spam from being detected by Instagram.
 - This script has a feature to get Likes, Comments and Followers for free.
 - This script has a feature to secure cracked Instagram accounts.
+- This script has a feature to generate user-agents randomly and always up to date.
 - There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
 - This script has a method that automatically updates every second.
-- This script has a feature to generate user-agents randomly and always up to date.
 
 ### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
