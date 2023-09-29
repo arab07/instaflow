@@ -105,9 +105,9 @@ This script will not require updates because it is automatically updated at all 
 
 - The cookies you use must be online in the browser where the cookies are taken.
 - You can change your Instagram account because it is possible that the account has been detected as spam by Instagram.
+- Maybe Instagram's system is abnormal, causing the account to be logged out.
 - Open desktop mode **"https://www.instgaram.com"** then refresh every few minutes.
 - You must use **"Airplane Mode"** before dumping.
-- Maybe Instagram's system is abnormal, causing the account to be logged out.
 
 ### Getting Successful Results?
 
