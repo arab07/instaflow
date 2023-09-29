@@ -26,9 +26,9 @@ This script will not require updates because it is automatically updated at all 
 
 ### What Features Does It Have?
 
+- This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
 - This script has a feature to generate user-agents randomly and always up to date.
 - Having form data in the request will prevent spam from being detected by Instagram.
-- This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
 - This script has a feature to get Likes, Comments and Followers for free.
 - This script has a feature to secure cracked Instagram accounts.
 - There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
