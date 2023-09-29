@@ -94,10 +94,10 @@ This script will not require updates because it is automatically updated at all 
 
 ### PyNacl Or PyCryptodome Not Installed?
 
+- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
 - The problem if the module is not installed is the Termux application which has problems during the installation.
 - You don't use Termux from play'store you should use ["Version-117"](https://f-droid.org/repo/com.termux_117.apk) or ["Version-118"](https://f-droid.org/repo/com.termux_118.apk).
 - Delete Termux data if the problem cannot be resolved.
-- I hope you run **"$ apt update -y && apt upgrade -y"** until everything is installed properly.
 
 ##
 
