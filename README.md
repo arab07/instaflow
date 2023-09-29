@@ -121,8 +121,8 @@ This script will not require updates because it is automatically updated at all 
 ### Not Getting Results?
 
 - Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **04, 05**.
-- I guarantee that if there are no results at all it is the fault of your target which is not good at all.
 - Your target has a password that is difficult to use or no password that is easy for them to use.
+- I guarantee that if there are no results at all it is the fault of your target which is not good at all.
 - I hope you don't use password encryption because it will result in not much result.
 - You do not turn on **"Airplane Mode"** in multiples of 200 for your username.
 
