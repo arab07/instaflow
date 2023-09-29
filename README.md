@@ -175,20 +175,11 @@ This script will not require updates because it is automatically updated at all 
 
 ### Problems When Cracking?
 
-- Method-02 or Method-03: There is a problem when cracking, you can ignore it because it will not affect the results.
-  - **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** occurs repeatedly, You can ignore this command because it is part of the latest Instagram application spam.
-  - **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry because it's not problematic.
-  - **"HARAP TUNGGU BEBERAPA MENIT!"** This problem is also very insignificant because this is a spam marker. it would be dangerous if this article didn't appear.
-  - **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
-- Method-04 or Method-05: There is a problem when cracking, you can ignore it because it will not affect the results.
-  - **"HIDUPKAN MODE PESAWAT 2 DETIK!"** You are required to turn on airplane mode during the specified time limit.
-  - **"HARAP TUNGGU BEBERAPA MENIT!"** or **"OOPS, AN ERROR OCCURRED!"** This problem is also very insignificant because this is a spam marker. it would be dangerous if this article didn't appear.
-- Method-06: There is a problem when cracking, you can ignore it because it will not affect the results.
-  - **"HARAP TUNGGU BEBERAPA MENIT!"** or **"OOPS, AN ERROR OCCURRED!"** This problem is also very insignificant because this is a spam marker. it would be dangerous if
-  - **"HIDUPKAN MODE PESAWAT 2 DETIK!"** You are required to turn on airplane mode during the specified time limit.
-  - **"COOKIES DISABLED IN YOUR BROWSER!"** Ignore this command because it will not affect the results you will get.
-- Method-01: This method really has high security because it has to pass reCAPTCHA before you can log into your account.
-  - All problems are caused directly by Instagram.
+- **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** occurs repeatedly, You can ignore this command because it is part of the latest Instagram application spam.
+- **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry because it's not problematic.
+- **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
+- **"HARAP TUNGGU BEBERAPA MENIT!"** or **"OOPS, AN ERROR OCCURRED!"** This problem is also very insignificant because this is a spam marker. it would be dangerous if this article didn't appear.
+- **"COOKIES DISABLED IN YOUR BROWSER!"** Ignore this command because it will not affect the results you will get.
 
 ### Why Does Dump Fail?
 
