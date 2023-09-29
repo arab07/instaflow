@@ -1,5 +1,5 @@
 # Instagram Brute Force Premium - From Indonesian
-**Premium** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
+**[Premium](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MjIzOTczMjAwMjI0NjA2?story_media_id=3121282198900040692_5398218083)** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
 <p align="left"><img src="Data/Images/Premium.jpg"/></p>
 
 <p align="left">
