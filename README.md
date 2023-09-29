@@ -16,23 +16,23 @@
 ##
 
 ### Description
-**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. You can also try the ***Facebook Brute Force*** script that we released to complement our Premium script called [**Facemash**](https://github.com/RozhakXD/Facemash).
+**Premium** was made on *30 July 2021* and then I distributed it to the public in November 2021 with version 9.5 which is available on termux and pydroid3. This script becomes paid in 2022 when someone trades this script without my permission. Premium is the main script for [Facemash](https://github.com/RozhakXD/Facemash) and [Threads](https://github.com/RozhakXD/Threads) so all features will function well here.
 
 ![Facebook-Image](https://github.com/RozhakXD/Premium/blob/main/Data/Images/Prem.png)
 
-This script will be updated about every 3 or 7 days to ensure the best results. The method used to log in is automatically scraping every time it sends a request.
+This script does not require updates because it is equipped with extraordinary features so that it can be kept up to date at all times. You don't need to worry if it doesn't work because it will be fine as time goes by.
 
 ##
 
-### Features in Script?
+### What Features Does It Have?
 
-- This tool login using new Instagram account cookies.
-- The secure feature for Instagram accounts cracked.
-- Mass report target Instagram account feature.
-- Multiple crack methods and works well.
-- Generates a random user-agent.
-- Complete data forms to avoid spam and errors.
-- Features to get followers, comments, likes and story views.
+- Having form data in the request will prevent spam from being detected by Instagram.
+- This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
+- This script has a feature to get Likes, Comments and Followers for free.
+- This script has a feature to secure cracked Instagram accounts.
+- There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
+- This script has a method that automatically updates every second.
+- This script has a feature to generate user-agents randomly and always up to date.
 
 ### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
@@ -104,21 +104,26 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 ### Overcoming Spam Dumps?
 
 - Open desktop mode **"https://www.instgaram.com"** then refresh every few minutes.
-- Turn on airplane mode before starting Dump username.
-- Instagram accounts come with a phone number, email and two-factor authentication.
+- You can change your Instagram account because it is possible that the account has been detected as spam by Instagram.
+- The cookies you use must be online in the browser where the cookies are taken.
+- You must use **"Airplane Mode"** before dumping.
+- Maybe Instagram's system is abnormal, causing the account to be logged out.
 
-### Getting Successful Results
+### Getting Successful Results?
 
-- Use good methods like : **Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023, Account Center.**
-- Noted for now only new accounts and small follower accounts are successful.
-- Use the automatic setting that is "Not Recommended" or number One.
+- Use good methods like : **Instagram Apps 2020, Instagram Apps 2019, Tinder Apps 2018, Threads Apps 2023, Account Center.**
+- Only new accounts or accounts that have a small followers can be successful.
+- You also have to pay attention to whether you are lucky or not in hacking.
+- Use the automatic setting that is **"Not Recommended"** or number One.
 - Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, NEXUS, HUAWEI.**
 - Search target on **"https://www.instagram.com/explore/"** make sure it has 1k followers and above.
 
-### No Results?
+### Not Getting Results?
 
-- The target you entered is not good or the password they used is a combination of special characters.
-- You don't play **"Airplane Mode"** it is recommended to turn on at 500 username.
+- I guarantee that if there are no results at all it is the fault of your target which is not good at all.
+- Your target has a password that is difficult to use or no password that is easy for them to use.
+- You do not turn on **"Airplane Mode"** in multiples of 200 for your username.
+- I hope you don't use password encryption because it will result in not much result.
 - Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **04, 05**.
 
 ### [Open Checkpoint Results?](https://drive.google.com/file/d/11RAN1jMdRK5mCTv8CdUbbGwKet5gnfGh/view?usp=sharing)
@@ -129,41 +134,51 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 - Enter the name of the file you want to crack **"dir Results"** to find out the file name.
 - Enter the user-agent selection or use the previously used user-agent.
 
-### Why Can't Use WIFI?
+### I Can't Use WiFi?
 
-- WiFi causes your IP address to be blocked or spam.
-- Not getting a Success or Checkpoint result.
-- WiFi causes it to get stuck at the words **"HIDUPKAN MODE PESAWAT 2 DETIK".**
+- WiFi causes your IP address to be blocked or spammed by Instagram.
+- You will not get success results or checkpoints if you use WiFi.
+- WiFi causes abnormal cracking or will get stuck on **"HIDUPKAN MODE PESAWAT 2 DETIK".**
 
 ### I Only Got Checkpoints?
 
-- Instagram's security is getting tighter and they update all the time.
-- Wrong selection of user-agent and method.
-- Your provider may have a problem.
-- The target that you entered is not good or has been cracked by someone.
+- Incorrect selection of user agents and methods can cause checkpoint results.
+- The target you entered is not good or someone has already executed it.
+- Instagram security is increasing so it becomes difficult to get successful results.
+- Maybe your provider is not suitable for the method or user agent you chose.
 
 ### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
 
-- Do not log in to the browser if the account is the result of the **"Application"** method.
-- Login using cracked cookies.
-- Login to the latest version of the Instagram clone application.
-- Turn on **"Airplane Mode"** before logging in.
+- I forbid you from logging in using the browser because it causes bugs in your account.
+- I hope that all results must be logged in the latest version of the Instagram application or the Instagram clone application.
+- You are required to turn on "Airplane Mode" before logging into the account.
+- You can log in using cookies stored on each date in the Results folder.
+- There is one problem, if you can't log in, maybe your device is spammed so you can't log in to that account.
 
 ### Bug Success Result?
 
 - The number of followers does not match.
   - The problem with Instagram can be said that there is one username on two different accounts.
-  - Maybe you get an account continuously.
+  - Maybe you get accounts multiple times at the same second.
 - The cookie has been logged out.
   - Maybe the account owner has changed the password so the cookies is logged out.
+  - There is a problem with Instagram that causes cookies to be logged out.
 
-### Account Always Logged Out?
+### Instagram Account Always Logged Out?
 
-- Use cookies on cracked accounts to make them last longer.
-- Use the latest version of the browser so you don't get browser spam.
+- Please change your Instagram account if the problem recurs because maybe your account was detected as spam by Instagram.
+- It is recommended that you use cracked cookies so they last longer.
+- You are required to use the most up-to-date browser to get cookies to avoid spam.
 - Change the password on your Instagram account.
-- Use the desktop site to get cookies.
-- Before entering cookies in the script, make sure the account is online.
+- You can use the desktop site to reduce spam on your Instagram account.
+- The Instagram account must be online in the browser to receive cookies.
+
+## Why Does Dump Fail?
+
+- Your Instagram account or cookies on your account are logged out and must be replaced with new ones.
+- I can guarantee that the dump error is a problem with Target or the Cookies you use.
+- Maybe your Instagram account was hit by spam or blocked for 24 hours.
+- The target you entered is incorrect or private and verified with a blue tick.
 
 ##
 
@@ -183,3 +198,4 @@ This script will be updated about every 3 or 7 days to ensure the best results. 
 ~~~python
 print("Happy Hacking Day !")
 ~~~
+##
