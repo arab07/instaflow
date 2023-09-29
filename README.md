@@ -150,10 +150,10 @@ This script will not require updates because it is automatically updated at all 
 ### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
 
 - I forbid you from logging in using the browser because it causes bugs in your account.
+- There is one problem, if you can't log in, maybe your device is spammed so you can't log in to that account.
 - I hope that all results must be logged in the latest version of the Instagram application or the Instagram clone application.
 - You are required to turn on "Airplane Mode" before logging into the account.
 - You can log in using cookies stored on each date in the Results folder.
-- There is one problem, if you can't log in, maybe your device is spammed so you can't log in to that account.
 
 ### Bug Success Result?
 
