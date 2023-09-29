@@ -175,11 +175,12 @@ This script will not require updates because it is automatically updated at all 
 
 ### Problems When Cracking?
 
-- **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** occurs repeatedly, You can ignore this command because it is part of the latest Instagram application spam.
 - **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry because it's not problematic.
+- **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** occurs repeatedly, You can ignore this command because it is part of the latest Instagram application spam.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
-- **"HARAP TUNGGU BEBERAPA MENIT!"** or **"OOPS, AN ERROR OCCURRED!"** This problem is also very insignificant because this is a spam marker. it would be dangerous if this article didn't appear.
+- **"HARAP TUNGGU BEBERAPA MENIT!"** This command is a sign that your IP address has been spammed.
 - **"COOKIES DISABLED IN YOUR BROWSER!"** Ignore this command because it will not affect the results you will get.
+- **"OOPS, AN ERROR OCCURRED!"** This command will not affect the results so just ignore it.
 
 ### Why Does Dump Fail?
 
