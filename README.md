@@ -178,8 +178,8 @@ This script will not require updates because it is automatically updated at all 
 - **"TERJADI KESALAHAN TAK TERDUGA!"** You don't need to worry because it's not problematic.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (RED COLOR)"** You don't need to turn on airplane mode because this is not your IP address that is blocked.
 - **"HIDUPKAN MODE PESAWAT 2 DETIK! (YELLOW COLOR)"** You are required to turn on airplane mode during the specified time limit.
-- **"HARAP TUNGGU BEBERAPA MENIT!"** This command is a sign that your IP address has been spammed.
 - **"COOKIES DISABLED IN YOUR BROWSER!"** Ignore this command because it will not affect the results you will get.
+- **"HARAP TUNGGU BEBERAPA MENIT!"** This command is a sign that your IP address has been spammed.
 - **"OOPS, AN ERROR OCCURRED!"** This command will not affect the results so just ignore it.
 
 ### Why Does Dump Fail?
