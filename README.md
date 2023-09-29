@@ -79,16 +79,19 @@ This script will not require updates because it is automatically updated at all 
     
 - **[Termux - Pydroid3](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=sharing)**
   ```
-  >> cd $HOME/Premium/_pycache_
+  >> pkg install clang binutils git libffi openssl libsodium iproute2
   >> pkg install tur-repo -y
   >> pkg install python3.9 -y
+  >> python3.9 -m pip install --upgrade pip
+  >> git clone https://github.com/RozhakXD/Premium
+  >> cd "Premium/_pycache_"
   >> python3.9 -m pip install requests futures
   >> python3.9 Prem.py
   ```
   - **Running on Termux**
   
     ```
-    >> cd $HOME/Premium/_pycache_
+    >> cd "$HOME/Premium/_pycache_"
     >> python3.9 Prem.py
     ```
 
