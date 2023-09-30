@@ -79,6 +79,7 @@ This script will not require updates because it is automatically updated at all 
     
 - **[Termux - Pydroid3](https://drive.google.com/file/d/1j9LIEstieavaERI0_qOBEbF70Xy7Xxcp/view?usp=sharing)**
   ```
+  >> apt update -y && apt upgrade -y
   >> pkg install clang binutils git libffi openssl libsodium iproute2
   >> pkg install tur-repo -y
   >> pkg install python3.9 -y
