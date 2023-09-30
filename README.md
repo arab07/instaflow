@@ -77,7 +77,7 @@ This script will not require updates because it is automatically updated at all 
     >> python3 Prem.py
     ```
     
-- **[Termux - Pydroid3](https://drive.google.com/file/d/13zA6XoqlOt2snlr2BqGlqFCP2aXUAuEl/view?usp=sharing)**
+- **[Termux - Pydroid3](https://drive.google.com/file/d/1j9LIEstieavaERI0_qOBEbF70Xy7Xxcp/view?usp=sharing)**
   ```
   >> pkg install clang binutils git libffi openssl libsodium iproute2
   >> pkg install tur-repo -y
